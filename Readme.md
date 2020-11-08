@@ -37,7 +37,8 @@
     ### PUT -> Para Alterar dados menos os de "LIKES"
     ### DELETE -> Para deletar dado através do ID.
   </p>
-
+  
+  <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/blob/master/desafio-conceitos-nodejs/README.md"> Sobre o desafio</a>
 
   ### Caso queira baixar os arquivos
 
